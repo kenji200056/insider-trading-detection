@@ -1,0 +1,4 @@
+.DS_Store
+.venv/
+src/data_source/result/feature_vector_unlabeled.csv
+thesis/
